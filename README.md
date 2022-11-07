@@ -4,9 +4,6 @@
 
 - 🔭 Hoje trabalho com Tecnologia e Mídias Sociais
 - 💻 Participando do Bootcamp From Zero To Hero, com a be.academy
-- 🖥 Cursando Full Stack Development na Tera
-- 👽 Em andamento graduação em Gestão de TI
-- 🎮 Streamer nas horas vagas
 - 📫 Contate-me no e-mail : cheila@agenciadrachen.com
 - 😄 Pronome Ela/Dela
 
