@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Tecnologia e Mídias Sociais
-- 💻 Participando do Bootcamp From Zero To Hero, com a be.academy
+- 💻 Participando do Bootcampt Empreendev Sueli Carneiro na Be.Academy
 - 💻 Cursando Full Stack Development na Tera
 - 📫 Contate-me no e-mail : cheila@agenciadrachen.com
 - 😄 Pronome Ela/Dela
